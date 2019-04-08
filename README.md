@@ -1,2 +1,3 @@
-# podstawy-dl-2019
-Materiały z warsztatów z podstaw Deep Learningu dla początkujących. Wiosna 2019.
+# Warsztaty z podstaw Deep Learningu dla początkujących
+
+Materiały z warsztatów Koła Naukowego Uczenia Maszynowego z podstaw Deep Learningu dla początkujących. Wiosna 2019.
